@@ -1,6 +1,6 @@
 {
   "name": "@ftrack/web-widget",
-  "packageManager": "yarn@3.6.3",
+  "packageManager": "yarn@4.0.2",
   "description": "ftrack web widget SDK",
   "main": "./dist/ftrackWidget.umd.js",
   "module": "./dist/ftrackWidget.es.js",
@@ -34,10 +34,10 @@
     "@typescript-eslint/eslint-plugin": "^6.7.3",
     "@typescript-eslint/parser": "^6.7.3",
     "eslint": "^8.50.0",
-    "lint-staged": "^14.0.1",
+    "lint-staged": "^15.0.0",
     "prettier": "^3.0.3",
     "typescript": "^5.2.2",
-    "vite": "^4.4.9",
+    "vite": "^5.0.0",
     "vite-plugin-dts": "^3.6.0"
   }
 }
